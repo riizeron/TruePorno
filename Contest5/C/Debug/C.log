@@ -1,0 +1,7 @@
+﻿  C.cpp
+C:\Users\Вячеслав\source\repos\Contest5\C\C.cpp(28,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\C\C.cpp(31,38): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\C\C.cpp(40,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\C\C.cpp(54,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\C\C.cpp(69,26): warning C4018: <: несоответствие типов со знаком и без знака
+  C.vcxproj -> C:\Users\Вячеслав\source\repos\Contest5\Debug\C.exe

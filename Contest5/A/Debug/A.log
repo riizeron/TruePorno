@@ -1,0 +1,4 @@
+﻿  A.cpp
+C:\Users\Вячеслав\source\repos\Contest5\A\A.cpp(23,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\A\A.cpp(79,26): warning C4101: a: неиспользованная локальная переменная
+  A.vcxproj -> C:\Users\Вячеслав\source\repos\Contest5\Debug\A.exe

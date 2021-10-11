@@ -1,0 +1,3 @@
+﻿  B.cpp
+C:\Users\Вячеслав\Desktop\Contest3\B\B.cpp(21): warning C4715: Rec: значение возвращается не при всех путях выполнения
+  B.vcxproj -> C:\Users\Вячеслав\Desktop\Contest3\Debug\B.exe

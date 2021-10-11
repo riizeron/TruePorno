@@ -1,0 +1,4 @@
+﻿  F.cpp
+C:\Users\Вячеслав\Desktop\Contest2\F\F.cpp(35,16): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+C:\Users\Вячеслав\Desktop\Contest2\F\F.cpp(35,13): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+  F.vcxproj -> C:\Users\Вячеслав\Desktop\Contest2\Debug\F.exe

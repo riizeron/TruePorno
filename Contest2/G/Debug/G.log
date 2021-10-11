@@ -1,0 +1,4 @@
+﻿  G.cpp
+C:\Users\Вячеслав\Desktop\Contest2\G\G.cpp(34,23): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+C:\Users\Вячеслав\Desktop\Contest2\G\G.cpp(34,15): warning C4244: аргумент: преобразование "double" в "long", возможна потеря данных
+  G.vcxproj -> C:\Users\Вячеслав\Desktop\Contest2\Debug\G.exe

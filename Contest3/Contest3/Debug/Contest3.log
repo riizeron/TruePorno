@@ -1,0 +1,4 @@
+﻿  Contest3.cpp
+C:\Users\Вячеслав\Desktop\Contest3\Contest3\Contest3.cpp(19,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\Desktop\Contest3\Contest3\Contest3.cpp(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Contest3.vcxproj -> C:\Users\Вячеслав\Desktop\Contest3\Debug\A.exe

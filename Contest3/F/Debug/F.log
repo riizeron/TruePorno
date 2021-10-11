@@ -1,0 +1,5 @@
+﻿  F.cpp
+C:\Users\Вячеслав\Desktop\Contest3\F\F.cpp(9,19): warning C4244: инициализация: преобразование "int64_t" в "size_t", возможна потеря данных
+C:\Users\Вячеслав\Desktop\Contest3\F\F.cpp(20,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\Desktop\Contest3\F\F.cpp(22,30): warning C4018: <: несоответствие типов со знаком и без знака
+  F.vcxproj -> C:\Users\Вячеслав\Desktop\Contest3\Debug\F.exe

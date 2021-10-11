@@ -1,0 +1,7 @@
+﻿  B.cpp
+C:\Users\Вячеслав\source\repos\Contest5\B\B.cpp(27,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\B\B.cpp(38,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\B\B.cpp(60,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\B\B.cpp(116,20): warning C4101: a: неиспользованная локальная переменная
+LINK : warning LNK4081: не хватает места на диске; компоновка выполняется не инкрементно
+  B.vcxproj -> C:\Users\Вячеслав\source\repos\Contest5\Debug\B.exe

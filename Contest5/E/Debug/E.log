@@ -1,0 +1,4 @@
+﻿  E.cpp
+C:\Users\Вячеслав\source\repos\Contest5\E\E.cpp(24,54): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\source\repos\Contest5\E\E.cpp(26,78): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  E.vcxproj -> C:\Users\Вячеслав\source\repos\Contest5\Debug\E.exe

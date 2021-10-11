@@ -1,0 +1,6 @@
+﻿  C.cpp
+C:\Users\Вячеслав\Desktop\Contest2\C\C.cpp(26,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Вячеслав\Desktop\Contest2\C\C.cpp(31,11): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Вячеслав\Desktop\Contest2\C\C.cpp(35,11): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Вячеслав\Desktop\Contest2\C\C.cpp(46,11): warning C4101: crit: неиспользованная локальная переменная
+  C.vcxproj -> C:\Users\Вячеслав\Desktop\Contest2\Debug\C.exe
