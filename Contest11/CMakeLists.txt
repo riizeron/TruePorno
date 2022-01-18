@@ -3,4 +3,4 @@ project(Contest11)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Contest11 B-Krascal.cpp Bloom.cpp)
+add_executable(Contest11 main.cpp)
